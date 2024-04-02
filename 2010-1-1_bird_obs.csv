@@ -1,0 +1,172 @@
+speciesCode,comName,sciName,locId,locName,obsDt,lat,lng,obsValid,obsReviewed,locationPrivate,subId,exoticCategory,howMany
+gragoo,Graylag Goose,Anser anser,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+cangoo,Canada Goose,Branta canadensis,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,N,
+mutswa,Mute Swan,Cygnus olor,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+norsho,Northern Shoveler,Spatula clypeata,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+gadwal,Gadwall,Mareca strepera,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+eurwig,Eurasian Wigeon,Mareca penelope,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+mallar3,Mallard,Anas platyrhynchos,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+gnwtea,Green-winged Teal,Anas crecca,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+compoc,Common Pochard,Aythya ferina,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+tufduc,Tufted Duck,Aythya fuligula,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+comgol,Common Goldeneye,Bucephala clangula,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+commer,Common Merganser,Mergus merganser,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,21.0
+rudduc,Ruddy Duck,Oxyura jamaicensis,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,True,False,S77794352,N,15.0
+grcgre1,Great Crested Grebe,Podiceps cristatus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+cowpig1,Common Wood-Pigeon,Columba palumbus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+watrai1,Water Rail,Rallus aquaticus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,1.0
+commoo3,Eurasian Moorhen,Gallinula chloropus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+eurcoo,Eurasian Coot,Fulica atra,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+bkhgul,Black-headed Gull,Chroicocephalus ridibundus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+mewgul,Common Gull,Larus canus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,3.0
+lbbgul,Lesser Black-backed Gull,Larus fuscus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,2.0
+grecor,Great Cormorant,Phalacrocorax carbo,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+grebit1,Great Bittern,Botaurus stellaris,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,1.0
+graher1,Gray Heron,Ardea cinerea,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,3.0
+eurmag1,Eurasian Magpie,Pica pica,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+carcro1,Carrion Crow,Corvus corone,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+blutit,Eurasian Blue Tit,Cyanistes caeruleus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+lottit1,Long-tailed Tit,Aegithalos caudatus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+eursta,European Starling,Sturnus vulgaris,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+redwin,Redwing,Turdus iliacus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+eurbla,Eurasian Blackbird,Turdus merula,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+eurrob1,European Robin,Erithacus rubecula,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+houspa,House Sparrow,Passer domesticus,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+eurgol,European Goldfinch,Carduelis carduelis,L924161,Attenborough Nature Centre and NWT NR,2010-01-01 17:07,52.9010592,-1.2336016,True,False,False,S77794352,,
+tunswa,Tundra Swan,Cygnus columbianus,L11276439,Wilne Road - England - GB (52.879 - -1.326),2010-01-01 17:05,52.8794479,-1.3264177,True,True,True,S77793902,,1.0
+litowl1,Little Owl,Athene noctua,L11276439,Wilne Road - England - GB (52.879 - -1.326),2010-01-01 17:05,52.8794479,-1.3264177,True,False,True,S77793902,N,1.0
+whwsco3,Velvet Scoter,Melanitta fusca,L13473294,Barrow Lodge,2010-01-01 16:30,53.838971,-2.3953128,True,True,True,S80792077,,1.0
+combuz1,Common Buzzard,Buteo buteo,L21349995,Blunsdon,2010-01-01 16:15,51.6088876,-1.7899951,True,False,True,S121304827,,1.0
+norhar1,Hen Harrier,Circus cyaneus,L4679742,Chat Moss,2010-01-01 16:05,53.4681669,-2.4301243,True,True,False,S79960603,,1.0
+eurspa1,Eurasian Sparrowhawk,Accipiter nisus,L1529131,Rising Sun Country Park,2010-01-01 15:40,55.018064,-1.5307045,True,False,False,S66177019,,1.0
+merlin,Merlin,Falco columbarius,L8823892,Astley Moss,2010-01-01 15:30,53.4743877,-2.4479512,True,False,False,S79960583,,1.0
+snogoo,Snow Goose,Anser caerulescens,L11533048,Aldcliffe Marsh,2010-01-01 15:00,54.0402214,-2.8339628,True,True,False,S80792047,X,4.0
+norlap,Northern Lapwing,Vanellus vanellus,L9014125,Barkby,2010-01-01 15:00,52.681873,-1.06046,True,False,True,S54783798,,
+eurjac,Eurasian Jackdaw,Corvus monedula,L9014125,Barkby,2010-01-01 15:00,52.681873,-1.06046,True,False,True,S54783798,,
+gretit1,Great Tit,Parus major,L5249619,Holywell Dene LNR,2010-01-01 15:00,55.0665487,-1.4890337,True,False,False,S66178378,,1.0
+fieldf,Fieldfare,Turdus pilaris,L9014125,Barkby,2010-01-01 15:00,52.681873,-1.06046,True,False,True,S54783798,,
+grywag,Gray Wagtail,Motacilla cinerea,L9014125,Barkby,2010-01-01 15:00,52.681873,-1.06046,True,False,True,S54783798,,1.0
+brambl,Brambling,Fringilla montifringilla,L13708254,Cringleford Marsh,2010-01-01 15:00,52.6148356,1.2434365,True,False,False,S141217698,,1.0
+lesred1,Lesser Redpoll,Acanthis cabaret,L8907164,Blackburn Way - Godalming GB-England (51.1897 --0.5986),2010-01-01 15:00,51.189695,-0.598647,True,False,True,S79799682,,10.0
+eugwoo2,Eurasian Green Woodpecker,Picus viridis,L1253370,Holmdale - Hinderclay,2010-01-01 14:30,52.3532326,0.9730411,True,False,True,S9344464,,1.0
+eurgre1,European Greenfinch,Chloris chloris,L1253370,Holmdale - Hinderclay,2010-01-01 14:30,52.3532326,0.9730411,True,False,True,S9344464,,2.0
+comeid,Common Eider,Somateria mollissima,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,2.0
+euroys1,Eurasian Oystercatcher,Haematopus ostralegus,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,5.0
+comsni,Common Snipe,Gallinago gallinago,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,1.0
+comred1,Common Redshank,Tringa totanus,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,
+rudtur,Ruddy Turnstone,Arenaria interpres,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,
+pursan,Purple Sandpiper,Calidris maritima,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,12.0
+gbbgul,Great Black-backed Gull,Larus marinus,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,1.0
+rocpip1,Rock Pipit,Anthus petrosus,L2789302,St Mary's Island LNR,2010-01-01 14:20,55.069758,-1.4521265,True,False,False,S66176936,,1.0
+recpoc,Red-crested Pochard,Netta rufina,L13720079,CWP Pit 30,2010-01-01 14:00,51.6548714,-1.9519003,True,False,True,S121304538,N,
+comcha,Common Chaffinch,Fringilla coelebs,L13720079,CWP Pit 30,2010-01-01 14:00,51.6548714,-1.9519003,True,False,True,S121304538,,
+bargoo,Barnacle Goose,Branta leucopsis,L12138757,Tynemouth Park and Boating Lake,2010-01-01 13:50,55.0250278,-1.4288575,True,False,False,S66179347,,1.0
+litgre1,Little Grebe,Tachybaptus ruficollis,L2236054,Carsington Water,2010-01-01 13:50,53.0587551,-1.6294098,True,False,False,S37325404,,
+rocpig,Rock Pigeon,Columba livia,L12138757,Tynemouth Park and Boating Lake,2010-01-01 13:50,55.0250278,-1.4288575,True,False,False,S66179347,N,2.0
+hergul,Herring Gull,Larus argentatus,L12138757,Tynemouth Park and Boating Lake,2010-01-01 13:50,55.0250278,-1.4288575,True,False,False,S66179347,,45.0
+litegr,Little Egret,Egretta garzetta,L2236054,Carsington Water,2010-01-01 13:50,53.0587551,-1.6294098,True,False,False,S37325404,,
+sonthr1,Song Thrush,Turdus philomelos,L2236054,Carsington Water,2010-01-01 13:50,53.0587551,-1.6294098,True,False,False,S37325404,,
+whiwag,White Wagtail,Motacilla alba,L2236054,Carsington Water,2010-01-01 13:50,53.0587551,-1.6294098,True,False,False,S37325404,,
+meapip1,Meadow Pipit,Anthus pratensis,L2236054,Carsington Water,2010-01-01 13:50,53.0587551,-1.6294098,True,False,False,S37325404,,
+smew,Smew,Mergellus albellus,L10822105,Holmethorpe Sandpits (Please use more precise hotspot if possible),2010-01-01 13:45,51.252473,-0.1389169,True,False,False,S64848653,,1.0
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,L10822105,Holmethorpe Sandpits (Please use more precise hotspot if possible),2010-01-01 13:45,51.252473,-0.1389169,True,False,False,S64848653,,1.0
+rorpar,Rose-ringed Parakeet,Psittacula krameri,L10822105,Holmethorpe Sandpits (Please use more precise hotspot if possible),2010-01-01 13:45,51.252473,-0.1389169,True,False,False,S64848653,N,4.0
+eurjay1,Eurasian Jay,Garrulus glandarius,L10822105,Holmethorpe Sandpits (Please use more precise hotspot if possible),2010-01-01 13:45,51.252473,-0.1389169,True,False,False,S64848653,,1.0
+dunnoc1,Dunnock,Prunella modularis,L10822105,Holmethorpe Sandpits (Please use more precise hotspot if possible),2010-01-01 13:45,51.252473,-0.1389169,True,False,False,S64848653,,1.0
+stonec4,European Stonechat,Saxicola rubicola,L8295927,Lammas Lands (Overgone and Catteshall Meadows),2010-01-01 13:30,51.1883174,-0.605199,True,False,False,S79799671,,2.0
+manduc,Mandarin Duck,Aix galericulata,L5913163,Bradley Dam,2010-01-01 13:20,53.0040673,-1.6685271,True,False,True,S37325403,N,
+eurkes,Eurasian Kestrel,Falco tinnunculus,L5913163,Bradley Dam,2010-01-01 13:20,53.0040673,-1.6685271,True,False,True,S37325403,,
+eurtre1,Eurasian Treecreeper,Certhia familiaris,L5913163,Bradley Dam,2010-01-01 13:20,53.0040673,-1.6685271,True,False,True,S37325403,,
+grypar,Gray Partridge,Perdix perdix,L28682302,Bryn Gates Lane,2010-01-01 13:00,53.5092849,-2.6172353,True,False,False,S164522482,,17.0
+bktgod,Black-tailed Godwit,Limosa limosa,L11345745,Haven Lakeland Leisure Park (coast),2010-01-01 13:00,54.1513155,-2.9679233,True,False,True,S68483878,,2.0
+eurwoo,Eurasian Woodcock,Scolopax rusticola,L11345745,Haven Lakeland Leisure Park (coast),2010-01-01 13:00,54.1513155,-2.9679233,True,False,True,S68483878,,1.0
+perfal,Peregrine Falcon,Falco peregrinus,L11345745,Haven Lakeland Leisure Park (coast),2010-01-01 13:00,54.1513155,-2.9679233,True,False,True,S68483878,,2.0
+skylar,Eurasian Skylark,Alauda arvensis,L28682302,Bryn Gates Lane,2010-01-01 13:00,53.5092849,-2.6172353,True,False,False,S164522482,,2.0
+reebun,Reed Bunting,Emberiza schoeniclus,L21349888,Cotswold Water Park (East): Pit 125,2010-01-01 13:00,51.6985368,-1.7406313,True,False,True,S121304057,,
+rinduc,Ring-necked Duck,Aythya collaris,L10295040,Fleetwood Promenade,2010-01-01 12:10,53.9262733,-3.0244556,True,True,False,S83390312,,1.0
+eurbul,Eurasian Bullfinch,Pyrrhula pyrrhula,L13719798,Otmoor Lane,2010-01-01 12:10,51.8019897,-1.1800078,True,False,True,S121303582,,1.0
+rinphe1,Ring-necked Pheasant,Phasianus colchicus,L8825121,Unstead Water Meadows,2010-01-01 12:00,51.1973111,-0.5859112,True,False,False,S79799650,N,
+grswoo,Great Spotted Woodpecker,Dendrocopos major,L8288254,Tibberton area.,2010-01-01 12:00,52.77367,-2.4766091,True,False,True,S55014295,,2.0
+rook1,Rook,Corvus frugilegus,L8288254,Tibberton area.,2010-01-01 12:00,52.77367,-2.4766091,True,False,True,S55014295,,
+eurnut2,Eurasian Nuthatch,Sitta europaea,L8288254,Tibberton area.,2010-01-01 12:00,52.77367,-2.4766091,True,False,True,S55014295,,1.0
+winwre4,Eurasian Wren,Troglodytes troglodytes,L8825121,Unstead Water Meadows,2010-01-01 12:00,51.1973111,-0.5859112,True,False,False,S79799650,,
+misthr1,Mistle Thrush,Turdus viscivorus,L8288254,Tibberton area.,2010-01-01 12:00,52.77367,-2.4766091,True,False,True,S55014295,,1.0
+eursis,Eurasian Siskin,Spinus spinus,L12487630,Garden,2010-01-01 12:00,51.3525259,-0.144565,True,False,True,S78949097,,3.0
+yellow2,Yellowhammer,Emberiza citrinella,L8288254,Tibberton area.,2010-01-01 12:00,52.77367,-2.4766091,True,False,True,S55014295,,3.0
+pifgoo,Pink-footed Goose,Anser brachyrhynchus,L1281674,Druridge Pools NWT NR and Druridge Links (NT),2010-01-01 11:27,55.2631361,-1.5684414,True,False,False,S25769299,,3000.0
+blksco1,Common Scoter,Melanitta nigra,L1281674,Druridge Pools NWT NR and Druridge Links (NT),2010-01-01 11:27,55.2631361,-1.5684414,True,False,False,S25769299,,1.0
+comshe,Common Shelduck,Tadorna tadorna,L1144380,Upton Warren WWT NR,2010-01-01 11:00,52.3036504,-2.09517,True,False,False,S16484532,,2.0
+eurcur,Eurasian Curlew,Numenius arquata,L11533048,Aldcliffe Marsh,2010-01-01 10:40,54.0402214,-2.8339628,True,False,False,S83389828,,
+eugplo,European Golden-Plover,Pluvialis apricaria,L1245278,Cresswell Pond NWT NR,2010-01-01 10:11,55.2421392,-1.5555954,True,False,False,S25769300,,12.0
+norpin,Northern Pintail,Anas acuta,L1223176,Otmoor RSPB Reserve,2010-01-01 10:00,51.8111973,-1.1781034,True,False,False,S121303405,,
+gresca,Greater Scaup,Aythya marila,L1072855,Bowling Green Marsh RSPB Reserve,2010-01-01 10:00,50.679316,-3.4571837,True,False,False,S10187996,,
+pieavo1,Pied Avocet,Recurvirostra avosetta,L1072855,Bowling Green Marsh RSPB Reserve,2010-01-01 10:00,50.679316,-3.4571837,True,False,False,S10187996,,
+redkit1,Red Kite,Milvus milvus,L1223176,Otmoor RSPB Reserve,2010-01-01 10:00,51.8111973,-1.1781034,True,False,False,S121303405,,
+brnowl,Barn Owl,Tyto alba,L1506800,Heacham Manor Hotel,2010-01-01 10:00,52.9199458,0.4945426,True,False,True,S10515983,,1.0
+wiltit1,Willow Tit,Poecile montanus,L3267897,Carrington Moss,2010-01-01 10:00,53.4198655,-2.3697853,True,False,False,S32487161,,1.0
+corbun1,Corn Bunting,Emberiza calandra,L3267897,Carrington Moss,2010-01-01 10:00,53.4198655,-2.3697853,True,False,False,S32487161,,
+gwfgoo,Greater White-fronted Goose,Anser albifrons,L2545035,Holkham NNR--Pines and Marshes (Please use more precise location if possible),2010-01-01 09:48,52.9694226,0.7899857,True,False,False,S64846108,,
+comloo,Common Loon,Gavia immer,L12146593,Rutland Water,2010-01-01 09:45,52.6551768,-0.6943334,True,False,True,S101692833,,1.0
+sheowl,Short-eared Owl,Asio flammeus,L12146593,Rutland Water,2010-01-01 09:45,52.6551768,-0.6943334,True,False,True,S101692833,,1.0
+eutspa,Eurasian Tree Sparrow,Passer montanus,L12146593,Rutland Water,2010-01-01 09:45,52.6551768,-0.6943334,True,False,True,S101692833,,2.0
+brant,Brant,Branta bernicla,L4981594,Sowley Pond,2010-01-01 09:30,50.7667871,-1.4673184,True,False,True,S31990828,,
+bkbplo,Black-bellied Plover,Pluvialis squatarola,L4981594,Sowley Pond,2010-01-01 09:30,50.7667871,-1.4673184,True,False,True,S31990828,,
+corplo,Common Ringed Plover,Charadrius hiaticula,L4981594,Sowley Pond,2010-01-01 09:30,50.7667871,-1.4673184,True,False,True,S31990828,,
+ruff,Ruff,Calidris pugnax,L4981594,Sowley Pond,2010-01-01 09:30,50.7667871,-1.4673184,True,False,True,S31990828,,
+dunlin,Dunlin,Calidris alpina,L4981594,Sowley Pond,2010-01-01 09:30,50.7667871,-1.4673184,True,False,True,S31990828,,
+medgul1,Mediterranean Gull,Ichthyaetus melanocephalus,L4981594,Sowley Pond,2010-01-01 09:30,50.7667871,-1.4673184,True,False,True,S31990828,,
+whoswa,Whooper Swan,Cygnus cygnus,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,
+lotduc,Long-tailed Duck,Clangula hyemalis,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,1.0
+relpar1,Red-legged Partridge,Alectoris rufa,L8823892,Astley Moss,2010-01-01 09:00,53.4743877,-2.4479512,True,False,False,S79960575,N,5.0
+categr1,Western Cattle Egret,Bubulcus ibis,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,
+greegr,Great Egret,Ardea alba,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,
+wemhar1,Western Marsh Harrier,Circus aeruginosus,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,
+comkin1,Common Kingfisher,Alcedo atthis,L8823892,Astley Moss,2010-01-01 09:00,53.4743877,-2.4479512,True,False,False,S79960575,,1.0
+comrav,Common Raven,Corvus corax,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,
+blackc1,Eurasian Blackcap,Sylvia atricapilla,L1448356,Somerset Wetlands NNR--Shapwick Heath,2010-01-01 09:00,51.1582598,-2.8130713,True,False,False,S76090915,,
+coatit2,Coal Tit,Periparus ater,L1095432,Eyebrook Reservoir,2010-01-01 08:35,52.5471308,-0.7415771,True,False,False,S101692775,,1.0
+martit2,Marsh Tit,Poecile palustris,L1095432,Eyebrook Reservoir,2010-01-01 08:35,52.5471308,-0.7415771,True,False,False,S101692775,,2.0
+stodov1,Stock Dove,Columba oenas,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,False,False,S61670512,,
+jacsni,Jack Snipe,Lymnocryptes minimus,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,False,False,S61670512,,1.0
+gresku1,Great Skua,Stercorarius skua,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,True,False,S61670512,,1.0
+comchi1,Common Chiffchaff,Phylloscopus collybita,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,False,False,S61670512,,1.0
+cetwar1,Cetti's Warbler,Cettia cetti,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,False,False,S61670512,,2.0
+eurlin1,Eurasian Linnet,Linaria cannabina,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,False,False,S61670512,,
+eurser1,European Serin,Serinus serinus,L1000253,Rainham Marshes RSPB Reserve,2010-01-01 08:00,51.4966805,0.2115243,True,True,False,S61670512,,1.0
+goldcr1,Goldcrest,Regulus regulus,L954224,Wanstead Park,2010-01-01 07:20,51.5666136,0.0309849,True,False,False,S6646639,,1.0
+redcro,Red Crossbill,Loxia curvirostra,L954224,Wanstead Park,2010-01-01 07:20,51.5666136,0.0309849,True,False,False,S6646639,,2.0
+tunbeg1,Tundra Bean-Goose,Anser serrirostris,L933099,Beddington Farmlands,2010-01-01,51.3805849,-0.1479596,True,True,False,S62359730,,1.0
+rebgoo1,Red-breasted Goose,Branta ruficollis,L7413566,Exminster and Powderham Marshes RSPB Reserve,2010-01-01,50.6756169,-3.4820716,True,True,False,S77466544,,1.0
+blkswa,Black Swan,Cygnus atratus,L1095432,Eyebrook Reservoir,2010-01-01,52.5471308,-0.7415771,True,True,False,S160914379,X,1.0
+egygoo,Egyptian Goose,Alopochen aegyptiaca,L924161,Attenborough Nature Centre and NWT NR,2010-01-01,52.9010592,-1.2336016,True,False,False,S120727184,N,
+rudshe,Ruddy Shelduck,Tadorna ferruginea,L924161,Attenborough Nature Centre and NWT NR,2010-01-01,52.9010592,-1.2336016,True,False,False,S120727184,P,
+ferduc,Ferruginous Duck,Aythya nyroca,L21339252,Wroxham Broad,2010-01-01,52.62651,1.30823,True,True,True,S121237982,,
+rebmer,Red-breasted Merganser,Mergus serrator,L3175788,Weston Shore,2010-01-01,50.8851383,-1.3707161,True,False,False,S151203644,,3.0
+wilpta,Willow Ptarmigan,Lagopus lagopus,L3453372,Dove Stone RSPB Reserve,2010-01-01,53.5369358,-1.969707,True,False,False,S37442330,,40.0
+horgre,Horned Grebe,Podiceps auritus,L918439,Dungeness RSPB Reserve,2010-01-01,50.9309436,0.9394598,True,False,False,S106149573,,1.0
+rengre,Red-necked Grebe,Podiceps grisegena,L1029842,Filey Area,2010-01-01,54.230715,-0.312295,True,True,True,S8625954,,1.0
+eargre,Eared Grebe,Podiceps nigricollis,L3582628,Bodiam Castle (NT),2010-01-01,51.0016438,0.5431688,True,False,False,S106149498,,1.0
+batgod,Bar-tailed Godwit,Limosa lapponica,L24154878,Cornwall,2010-01-01,50.1316405,-5.2151288,True,False,True,S136682785,,5.0
+sposan,Spotted Sandpiper,Actitis macularius,L1015321,Abberton Reservoir,2010-01-01,51.8254661,0.8630276,True,True,False,S68121214,,
+spored,Spotted Redshank,Tringa erythropus,L9942830,Fishbourne Creek,2010-01-01,50.8324667,-0.8115174,True,False,False,S20627223,,1.0
+comgre,Common Greenshank,Tringa nebularia,L9942830,Fishbourne Creek,2010-01-01,50.8324667,-0.8115174,True,False,False,S20627223,,1.0
+redkno,Red Knot,Calidris canutus,L1029841,Seawatch,2010-01-01,54.2156645,-0.2653594,True,False,True,S8625956,,28.0
+sander,Sanderling,Calidris alba,L17066027,South Shields,2010-01-01,55.006444,-1.428325,True,False,True,S98674547,,30.0
+commur,Common Murre,Uria aalge,L24154878,Cornwall,2010-01-01,50.1316405,-5.2151288,True,False,True,S136682785,,5.0
+bklkit,Black-legged Kittiwake,Rissa tridactyla,L24154878,Cornwall,2010-01-01,50.1316405,-5.2151288,True,False,True,S136682785,,3.0
+ribgul,Ring-billed Gull,Larus delawarensis,L11159122,Westcliffe-on-Sea - Southend - Essex - England,2010-01-01,51.533,0.706,True,True,True,S68135203,,1.0
+retloo,Red-throated Loon,Gavia stellata,L1029841,Seawatch,2010-01-01,54.2156645,-0.2653594,True,False,True,S8625956,,2.0
+arcloo,Arctic Loon,Gavia arctica,L24154878,Cornwall,2010-01-01,50.1316405,-5.2151288,True,False,True,S136682785,,4.0
+norgan,Northern Gannet,Morus bassanus,L24154878,Cornwall,2010-01-01,50.1316405,-5.2151288,True,False,True,S136682785,,8.0
+eursha1,European Shag,Gulosus aristotelis,L24154878,Cornwall,2010-01-01,50.1316405,-5.2151288,True,False,True,S136682785,,2.0
+tawowl1,Tawny Owl,Strix aluco,L7177823,Garden,2010-01-01,52.9287774,0.9865523,True,False,True,S123961678,,1.0
+brnshr,Brown Shrike,Lanius cristatus,L1756371,Staines Moor SSSI,2010-01-01,51.4483421,-0.512522,True,True,False,S108475537,,1.0
+comhom1,Western House-Martin,Delichon urbicum,L7008059,5 Brassey Hill - Limpsfield,2010-01-01,51.255469,0.007608,True,True,True,S43312953,,
+firecr1,Common Firecrest,Regulus ignicapilla,L10528558,Dunwich,2010-01-01,52.2766103,1.6257979,True,False,True,S63632692,,1.0
+whtdip1,White-throated Dipper,Cinclus cinclus,L6452754,Arnfield Reservoir,2010-01-01,53.4726839,-1.9810045,True,False,False,S71230344,,2.0
+blared1,Black Redstart,Phoenicurus ochruros,L15133117,Exton,2010-01-01,52.6847067,-0.6279959,True,False,True,S101692605,,1.0
+watpip1,Water Pipit,Anthus spinoletta,L10528479,RSPB Minsmere,2010-01-01,52.242481,1.6113874,True,False,True,S63628541,,1.0
+twite1,Twite,Linaria flavirostris,L1022047,Admiralty Point to Ongar Hill Marsh,2010-01-01,52.7988695,0.3544807,True,False,False,S10059732,,28.0
+laplon,Lapland Longspur,Calcarius lapponicus,L1135528,Frampton Marsh RSPB Reserve,2010-01-01,52.9294782,0.0213718,True,True,False,S55766515,,4.0
+snobun,Snow Bunting,Plectrophenax nivalis,L1135528,Frampton Marsh RSPB Reserve,2010-01-01,52.9294782,0.0213718,True,False,False,S55766515,,20.0
+cirbun1,Cirl Bunting,Emberiza cirlus,L3031431,Broadsands,2010-01-01,50.4063668,-3.5528541,True,False,False,S19717369,,6.0
